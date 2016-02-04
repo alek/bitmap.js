@@ -1,2 +1,2 @@
 # bitmap.js
-Yet another JavaScript SVG Library
+Yet another JavaScript SVG Library. Work-in-progress, please ignore.
