@@ -134,6 +134,10 @@ Element.prototype.stroke = function(value) {
 	return this.attr('stroke', value);
 }
 
+Element.prototype.strokewidth = function(value) {
+	return this.attr('stroke-width', value);
+}
+
 Element.prototype.transform = function(value) {
 	return this.attr('transform', value);
 }
