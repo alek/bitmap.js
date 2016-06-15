@@ -1,0 +1,26 @@
+{
+  "name": "bitmap.js",
+  "version": "1.0.0",
+  "description": "Yet another JavaScript SVG Library",
+  "main": "lib/bitmap.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alek/bitmap.js.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Aleksandar Bradic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alek/bitmap.js/issues"
+  },
+  "homepage": "https://github.com/alek/bitmap.js#readme"
+}
